@@ -1,0 +1,9 @@
+body {
+    font-family: monospace;
+}
+
+.contador {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
